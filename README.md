@@ -1,6 +1,6 @@
 # bipolarmageviewer
 
-Image viewr iwith slider
+Image viewer with slider for 2 kind of image collection decorational things and cats.
 
 ## Getting Started
 
